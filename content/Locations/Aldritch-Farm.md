@@ -1,6 +1,6 @@
->[!info]
->**Location**: Dragonview
->**Appearances**: [Session 1](Session-1-notes)
+>[!infobox]
+>**Location**: Dragonview  
+>**Appearances**: [Session 1](Session-1-notes)  
 
 This farm was home and the work of [Aldritch](Aldritch). It is a very well established building, with an older design. It stands about sixty feet across and has a small well in the front. There are three rooms, a bedroom, main living room, as well as a large closet.
 

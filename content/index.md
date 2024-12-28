@@ -9,7 +9,7 @@ Keep in mind that I'm not quite finished, and have plans to add much more!
 ## Getting Started
 Here is a list of important pages, and many more can be found in the Explorer
 - [Locations](Lists-of-locations)
-- [NPCs](Lists-of-NPCs)
+- [NPCs](List-of-NPCs)
 - [Session Notes](Session-notes-list)
 
 ## Contributing
