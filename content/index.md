@@ -22,6 +22,6 @@ If you don't, You can either email them to me in plain text, but if your willing
 - ~add Paleros Map and more locations to Lists-of-locations.MD~
 - ~add summary to Session-notes-list.md~
 - ~spelling and grammar~
-- add NPC relationships
+- add NPC relationships(started)
 - Add character pages? *Let me know what you all think*
-- move wiki to github pages, so I can use styles(Will improve how it all looks by a lot)
+- ~move wiki to github pages, so I can use styles(Will improve how it all looks by a lot)~

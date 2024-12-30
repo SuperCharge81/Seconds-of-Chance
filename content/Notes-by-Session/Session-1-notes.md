@@ -1,3 +1,6 @@
+---
+title: Session 1
+---
 
 # Monday
 **Shnarkle** is a rock gnome, 37 two feet tall 40 pounds, hairless, but has moss for hair instead.

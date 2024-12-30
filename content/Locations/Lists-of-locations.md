@@ -1,4 +1,6 @@
-
+---
+title: Lists of Locations
+---
 *Disclaimer! You might notice several of these sections are not filled out. To be honest, I got bored filling out only locational information, so I'm leaving what I already finished until we have more details.
 # Table of Contents
 - [Paleros Map](Lists-of-locations#map)

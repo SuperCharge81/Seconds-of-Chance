@@ -1,3 +1,7 @@
+---
+title: Aldritch Farm
+---
+
 >[!infobox]
 >**Location**: Dragonview  
 >**Appearances**: [Session 1](Session-1-notes)  

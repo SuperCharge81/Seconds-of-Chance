@@ -1,4 +1,6 @@
-
+---
+title: Session Notes List
+---
 # [Session 1 notes](Session-1-notes)
 
 <details><summary style="font-size: 20px; font-weight: bold">Summary</summary>
