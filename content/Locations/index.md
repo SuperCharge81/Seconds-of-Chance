@@ -1,26 +1,8 @@
 ---
-title: Lists of Locations
+title: Locations
 ---
-*Disclaimer! You might notice several of these sections are not filled out. To be honest, I got bored filling out only locational information, so I'm leaving what I already finished until we have more details.
-# Table of Contents
-- [Paleros Map](Lists-of-locations#map)
-- [Cities](Lists-of-locations#cities)
-  - [Icewind](Lists-of-locations#icewind)
-  - [Khazum](Lists-of-locations#khazum)
-  - [Akkurai](Lists-of-locations#akkurai)
-- [Landmarks](Lists-of-locations#landmarks)
-  - [Northern Mountains](Lists-of-locations#northern-mountains)
-  - [Stormspike](Lists-of-locations#stormspike)
-  - [Ash Mountains](Lists-of-locations#ash-mountains)
-- [Villages](Lists-of-locations#villages)
-  - [Dragonview](Lists-of-locations#dragonview)
-- [Settlements](Lists-of-locations#settlements)
-  - [Fort Deadwood](Lists-of-locations#fort-deadwood)
-  - [Aldridge's Farmhouse](Lists-of-locations#aldridges-farmhouse)
+*Disclaimer! You might notice several of these sections are not filled out. To be honest, I got bored filling out only locational information, so I'm leaving what I already finished until we have more details.  
 
-
-<br>
-<br>
 <br>
 <br>
 
@@ -95,6 +77,6 @@ Dragonview is a very small village, rarely even labeled on maps. It is located b
 # Settlements
 
 ## Fort Deadwood
-## [Aldrritch's Farmhouse](Aldritch-Farm)
+## [Aldritch's Farmhouse](Aldritch-Farm)
 This Farmhouse is located just outside of Dragonview.
 
