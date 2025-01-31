@@ -79,4 +79,5 @@ Dragonview is a very small village, rarely even labeled on maps. It is located b
 ## Fort Deadwood
 ## [Aldritch's Farmhouse](Aldritch-Farm)
 This Farmhouse is located just outside of Dragonview.
-
+## [Ruined village](Ruined-village)
+The Ruined village is a nameless village located in the south-east of the [dead forest](#the-dead-forest)
