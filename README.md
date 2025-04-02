@@ -1,18 +1,17 @@
 # Quartz v4
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+This repo is currently using Quartz version 4, and was built by cloning the [quartz](https://github.com/jackyzha0/quartz) template. Please note that I havent taken the time to update it sense it was cloned, so this will likely be outdated. On second thought, I should really get around to updating all of the dependencies and such.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+🔗 Quartz documentation can be found here: [https://quartz.jzhao.xyz/](https://quartz.jzhao.xyz/), and if you like quartz, be sure to sponser [jackyzha0](https://github.com/sponsors/jackyzha0).
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+This is also configured to use Obsidian flavored markdown, with documentation found [here](https://help.obsidian.md/obsidian-flavored-markdown)
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+The Quartz Discord Community can be found [here](https://discord.gg/cRFFHYye7t)
 
-## Sponsors
+### Notable locations:
+`/content` contains all files included in the website. This will be where most of the changes take place
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+`/docs` contains documentation for quartz([https://quartz.jzhao.xyz/](https://quartz.jzhao.xyz/) works better.
+
+`/unedited notes` is pretty self explanatory, it contains my raw notes for the campaign, as well as note templates.
+test

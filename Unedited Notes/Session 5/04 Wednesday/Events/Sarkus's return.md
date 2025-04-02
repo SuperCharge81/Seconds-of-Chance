@@ -1,0 +1,3 @@
+Upon settling in Lilith's personal home, we are surprised to be met by Sarkas and his overbearing attitude as if he expects everyone to follow his instructions. He thanks us for fighting the dragonborn, and gives each of us a single gold piece. Lilith asks about her stepfather's disappearance, which Sarkas responds in the affirmative, he has heard about it. However, he is unsure of his location. 
+
+Leobardus holds a item of significance, a map or something, and is often held close to his person. This is an item the person is very fond of. Sarkas wants us to search Leobardus's quarters for this item, while we are searching for any clues in his disappearance. He claims to be curious about what the map leads to, not in wealth.
