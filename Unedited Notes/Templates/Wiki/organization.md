@@ -17,11 +17,11 @@ appearances:
 <% Summary %>
 
 >[!infobox]
->Base: <% Base %><br>
->Leader: <% Leader %><br>
->Alignment: <% Alignment %><br>
->Organizational Structure: <br>
->Appearances: 
+>**Base**: <% Base %><br>
+>**Leader**: <% Leader %><br>
+>**Alignment**: <% Alignment %><br>
+>**Organizational Structure**: <br>
+>**Appearances**: 
 
 
 # Relationships

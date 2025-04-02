@@ -1,5 +1,5 @@
 ---
-title: glamorous Bell
+title: Glamorous Bell
 type: Structure
 tags:
   - dnd
@@ -8,8 +8,8 @@ tags:
   - tavern
 ---
 >[!infobox]
->Appearances: [Session 5](Session-5-notes)
->Structure type: Tavern
+>**Appearances**: [Session 5](Session-5-notes)<br>
+>**Structure type**: Tavern
 # Description
 A tavern large enough to fit more than 50 dwarves
 

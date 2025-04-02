@@ -3,17 +3,19 @@ const FileName = await tp.system.prompt("Object name")
 const Summary = await tp.system.prompt("Quick Summary", "", false, true)
 const Appearance = await tp.system.prompt("Appearance?")
 const ObjectType = await tp.system.prompt("Object Type?")
+const Size = await tp.system.prompt("Object Size")
 %>---
 title: <% FileName %>
 tags:
   - "dnd"
   - object
   - <% FileName %>
+  - <% ObjectType %>
 type: "object"
 ---
 >[!infobox]
->Object Type: <% ObjectType %><br>
->Size: 
+>**Object Type**: <% ObjectType %><br>
+>**Size**: <% Size %>
 # Summary
 <% Summary %>
 

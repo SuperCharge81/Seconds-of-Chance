@@ -18,13 +18,13 @@ tags:
 ---
 <% await tp.file.move("/content/NPC's/" + tp.file.title) %>
 >[!infobox]
->Organization: <% Organization %><br>
->Location: <% Location %><br>
->Appearances: <br>
->Mentioned in: <br>
->Height: <% Height %><br>
->Gender: <% Gender %><br>
->Race: <% Race %>
+>**Organization**: <% Organization %><br>
+>**Location**: <% Location %><br>
+>**Appearances**: <br>
+>**Mentioned in**: <br>
+>**Height**: <% Height %><br>
+>**Gender**: <% Gender %><br>
+>**Race**: <% Race %>
 # Summary
 <% Summary %>
 

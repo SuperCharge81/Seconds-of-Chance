@@ -14,8 +14,9 @@ Here is a list of important pages, and many more can be found in the Explorer
 
 ## Contributing
 
-If you have a github account, I can add you as a contributor and you can add pages yourself.  <br>
-If you don't, You can either email them to me in plain text, but if your willing to format yourself, that would be very helpful. This wiki uses mostly markdown, which is very easy to learn(takes about 5 min). Get started at [this guide](https://github.com/SuperCharge81/Seconds-of-Chance-wiki/blob/main/Markdown-Basics.md) that I made or for more detailed information you could go [here](https://www.markdownguide.org/basic-syntax/)(external site). I also have more information on how this website was built on the [github readme](https://github.com/SuperCharge81/Seconds-of-Chance) page for anyone intereted.
+If you have a github account, I can add you as a contributor and you can add pages yourself. I also have the [discussions page](https://github.com/SuperCharge81/Seconds-of-Chance/discussions) enabled, where you can talk about anything and everything. I suggest adding any new pages/theories here if your not confident in adding it to the [content folder](https://github.com/SuperCharge81/Seconds-of-Chance/tree/v4/content).<br><br>
+If you don't have a github account, never fear! You can email them to me. Id prefer if they are sent in markdown, so I dont need to format them myself. Markdown is very easy to learn(takes about 5 min). Get started at [this guide](https://github.com/SuperCharge81/Seconds-of-Chance-wiki/blob/main/Markdown-Basics.md) that I made or for more detailed information you could go [here](https://www.markdownguide.org/basic-syntax/)(external site). I also have more information on how this website was built on the [github readme](https://github.com/SuperCharge81/Seconds-of-Chance) page for anyone intereted.<br><br>
+If you dont want to format it, plain text is fine, just send it to me in an email or something, and I can format it, it really doesen't take long.
 
 ## Changes and plans
 

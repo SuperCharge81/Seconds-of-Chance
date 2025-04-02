@@ -7,14 +7,13 @@ tags:
   - Sarkas
 ---
 >[!infobox]
->Organization: none<br>
->Location: [Ouromael](Ouromael)<br>
->Appearances: [Session 1](Session-1-notes), [Session 5](Session-5-notes)<br>
->Mentioned in: [Session 4](Session-4-notes)
->
->Height: 6'4"<br>
->Gender: male<br>
->Race: Elf<br>
+>**Organization**: none<br>
+>**Location**: [Ouromael](Ouromael.md)<br>
+>**Appearances**: [Session 1](Session-1-notes), [Session 5](Session-5-notes)<br>
+>**Mentioned in**: [Session 4](Session-4-notes)
+>**Height**: 6'4"<br>
+>**Gender**: male<br>
+>**Race**: Elf<br>
 
 # Summary
 Sarkas is an elf that resides in [Dragonview](Locations/Dragonview). He is often described as having a piercing gaze, and fills rooms with his overbearing presence. He was the person who gathered together the {Party Name}, and explained the events at [Aldritch-Farm](Aldritch's%20Farm.md). During the events of [Session 3](Session-3-notes), he left for one of the [three major cities](Locations/index#larger-cities) of Paleros.

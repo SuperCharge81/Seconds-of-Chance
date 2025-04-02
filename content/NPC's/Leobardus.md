@@ -17,19 +17,16 @@ Leobardus is a local adventurer who has retired to Ouromal. He has since disappe
 >[!infobox]
 >**Organization**: None<br>
 > **Location**: Unknown<br>
->Appearances: None<br>
->Mentioned in: [Session 4](session-4-notes), [Session 5](Session-5-notes.md)<br>
->>[!Description]
->>
->>Height: Unknown<br>
->>Gender: Male<br>
->>Race: Human<br>
+>**Mentioned in**: [Session 4](session-4-notes), [Session 5](Session-5-notes.md)<br>
+>**Height**: Unknown<br>
+>**Gender**: Male<br>
+>**Race**: Human<br>
 
 # Relationships
 
 ## Locations:
 
-### [Ouromael](Ouromael)
+### [Ouromael](Ouromael.md)
 
 Leobardus had settled down and retired in Ouromael, before his disappearance.
 

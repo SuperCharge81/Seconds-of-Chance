@@ -4,14 +4,14 @@ type: "Structure"
 tags:
   - "dnd"
   - "structure"
-  - farm
+  - Farm
   - Aldritchs-Farm
 ---
 
 >[!infobox]
->Location: [Dragonview](Dragonview.md)
->Appearances: [Session 1](Session-1-notes.md)
->Structure type: farm
+>**Location**: [Dragonview](Dragonview.md)<br>
+>**Appearances**: [Session 1](Session-1-notes.md)<br>
+>**Structure type**: Farm
 # Description
  It is a very well established building, with an older design. It stands about sixty feet across and has a small well in the front. There are three rooms, a bedroom, main living room, as well as a large closet.
 

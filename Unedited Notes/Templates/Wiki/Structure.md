@@ -16,9 +16,9 @@ tags:
 ---
 <% await tp.file.move("/content/Structures/" + tp.file.title) %>
 >[!infobox]
->Location: <% Location %>
->Appearances:
->Structure type: <% StructureType %>
+>**Location**: <% Location %> <br>
+>**Appearances**:<br>
+>**Structure type**: <% StructureType %>
 # Description
 <% Appearance %>
 
