@@ -1,3 +1,17 @@
+@use "./variables.scss" as *;
+@use "./syntax.scss";
+@use "./callouts.scss";
 @use "./base.scss";
 
 // put your custom CSS here!
+.callout {
+	&[data-callout="infobox"] {
+		--color: var(--dark);
+		--border: #448aff44;
+		--bg: #786b3d80;
+		--callout-icon: var(--callout-icon-note);
+		float: right;
+		margin-left: 30px;
+		margin-right: 10px;
+	}
+}
