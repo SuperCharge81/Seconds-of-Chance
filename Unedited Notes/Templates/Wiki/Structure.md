@@ -1,7 +1,7 @@
 <%*
 const FileName = await tp.system.prompt("Structure Name?")
 await tp.file.rename(FileName)
-const Appearance = await tp.system.prompt("Appearance?")
+const Appearance = await tp.system.prompt("Appearance?", "", false, true)
 const Summary = await tp.system.prompt("Quick Summary", "", false, true)
 const StructureType = await tp.system.prompt("type of structure?")
 const Location = await tp.system.prompt("Location")
@@ -31,4 +31,6 @@ tags:
 ## NPC's:
 ###
 ## PC's:
+###
+## Structures
 ###

@@ -1,7 +1,7 @@
 <%*
 const FileName = await tp.system.prompt("Location Name?")
 await tp.file.rename(FileName)
-const Appearance = await tp.system.prompt("Appearance?")
+const Appearance = await tp.system.prompt("Appearance?","", false, true)
 const Summary = await tp.system.prompt("Quick Summary", "", false, true)
 %>---
 title: <% FileName %>
@@ -10,9 +10,11 @@ tags:
   - "dnd"
   - "location"
   - <% FileName %>
-appearances:
 ---
 <% await tp.file.move("/content/Locations/" + tp.file.title) %>
+>[!infobox]
+>**Appearances:** 
+>**Mentioned in**:
 # Description
 <% Appearance %>
 
@@ -25,4 +27,6 @@ appearances:
 ## NPC's:
 ###
 ## PC's:
+###
+## Structures
 ###

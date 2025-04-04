@@ -5,7 +5,7 @@ const Location = await tp.system.prompt("Current Location?")
 const Race = await tp.system.prompt("Race?")
 const Gender = await tp.system.prompt("Gender?")
 const Height = await tp.system.prompt("Hight?")
-const Appearance = await tp.system.prompt("Appearance?")
+const Appearance = await tp.system.prompt("Appearance?","", false, true)
 const Summary = await tp.system.prompt("Quick Summary", "", false, true)
 const Organization = await tp.system.prompt("Organization")
 %>---
@@ -39,4 +39,6 @@ tags:
 ## NPC's:
 ###
 ## PC's:
+###
+## Structures
 ###

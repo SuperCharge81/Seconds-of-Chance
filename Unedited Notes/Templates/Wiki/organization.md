@@ -32,6 +32,8 @@ appearances:
 ## NPC's
 ###
 ## PC's
-
+###
+## Structures
+###
 
 <% await tp.file.move("/content/Organizations/" + tp.file.title) %>
