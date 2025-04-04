@@ -19,7 +19,8 @@ title: Locations
 ### Icewind
 Icewind is a Port City located about 400 miles South of Khazum and 150 miles north of Akkurai
 ### Ashfall
-### [Ouromael](Ouromael)
+### [Ouromael](Ouromael.md)
+Ouromael is a great elvish city, with a large Elvish population. It is where Leobardus retired to.
 
 <br>
 
@@ -32,6 +33,7 @@ a smaller city located along the Western Ocean, Akkurai does not appear to have 
 ### Smoky Chimney
 ### Arthur's Glade
 ### Peppercorn City
+Peppercorn City is where Leobardus was last seen after his disappearance.
 
 <br>
 <br>
@@ -50,7 +52,8 @@ The Ash Mountains are a mountain range in the far south of Paleros. Just north o
 <br>
 
 ## Forests
-### The Dead Forest
+### [Dead Forest](Dead%20Forest.md)
+The Dead Forest is a set of twisted trees, strange mists and eerie noises. It has sence been changed, as it had some sort of curse on it. It contains the Ruined Village
 ### The Haunted Wood
 ### Peppercorn Wood
 
@@ -69,15 +72,5 @@ The Ash Mountains are a mountain range in the far south of Paleros. Just north o
 
 ## [Dragonview](Locations/Dragonview.md)
 Dragonview is a very small village, rarely even labeled on maps. It is located between Ouromael and Peppercorn City, and stands against the Peppercorn Forest.
-
-<br>
-<br>
-<br>
-
-# Settlements
-
-## Fort Deadwood
-## [Aldritch's Farmhouse](Aldritch's%20Farm.md)
-This Farmhouse is located just outside of Dragonview.
-## [Ruined village](Ruined-village)
+## [Ruined village](Ruined%20Village.md)
 The Ruined village is a nameless village located in the south-east of the [dead forest](#the-dead-forest)

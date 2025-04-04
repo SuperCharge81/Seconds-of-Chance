@@ -7,7 +7,9 @@ tags:
   - Dragonview
 appearances:
 ---
-
+>[!infobox]
+>**Appearances:** [Session 1](Session-1-notes.md), [Session 4](Session-4-notes.md)
+>**Mentioned in**: [Session 2](Session-2-notes.md), [Session 3](Session-3-notes.md)
 # Description
 Dragonview is a very small town standing between Ouromael and Peppercorn City. It stands against the Peppercorn Forest. It consists of mostly humans, but also has gnomes, elves, and a few dwarves.
 
@@ -20,7 +22,7 @@ Dragonview is the location where the Campain was originally started. This is whe
 Sarkas has a deep love for the small village of Dragonview, which likely evolved from the simplicity of the town. 
 ## PC's:
 ### Snarkle
-The town is a little spiteful towards Snarkle, due to a con he tried pulling on them in [Session 4](Session-4-notes), where he came attempting to convert each villager to the god Talos, as well as asking for tithes. Upon a little success, he continued his round with the goal of converting the same villagers to Ilimiter.
+The town is a little spiteful towards Snarkle, due to a con he tried pulling on them in Session 4, where he came attempting to convert each villager to the god Talos, as well as asking for tithes. Upon a little success, he continued his round with the goal of converting the same villagers to Ilimiter.
 ## Structures
 ### Aldritch's Farm
 Aldritch's Farm stands just outside of the Dragonview village.
