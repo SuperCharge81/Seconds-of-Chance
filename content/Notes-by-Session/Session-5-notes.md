@@ -3,7 +3,7 @@ title: Session 5
 ---
 
 > [!disclaimer]
-> Session "6" ended up being very short, and mostly inclueded touching up on loose ends from session 5. As such, I have lumped both sessions into this page
+> Session "6" ended up being very short, and mostly included touching up on loose ends from session 5. As such, I have lumped both sessions into this page
 
 # Wednesday
 

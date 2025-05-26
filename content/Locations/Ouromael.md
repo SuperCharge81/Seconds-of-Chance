@@ -8,7 +8,7 @@ tags:
 appearances:
 ---
 >[!infobox]
->**Appearances:** [Session 4](Session-4-notes.md), [Session 5](Session-5-notes.md)
+>**Appearances:** [Session 4](Session-4-notes.md), [Session 5](Session-5-notes.md)<br>
 >**Mentioned in**: [Session 3](Session-3-notes.md)
 
 # Description
