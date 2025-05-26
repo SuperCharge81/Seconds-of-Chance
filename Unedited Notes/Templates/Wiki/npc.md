@@ -16,7 +16,7 @@ tags:
   - "npc"
   - <% FileName %>
 ---
-<% await tp.file.move("/content/NPC's/" + tp.file.title) %>
+<% await tp.file.move("/content/NPC's/" + FileName) %>
 >[!infobox]
 >**Organization**: <% Organization %><br>
 >**Location**: <% Location %><br>
