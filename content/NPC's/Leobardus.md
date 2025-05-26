@@ -40,7 +40,7 @@ It was near Peppercorn city that Leobardus had fought Xavenon the dragon. This i
 
 Leobardus met Sarkas when he was in his mid thirties. He was sought out by Sarkas, because Sarkas was curious about the new human adventurer.
 
-### Lithonial Ararora
+### [Lithonial Ararora](Lithonial%20Ararora.md)
 
 Leobardus met Lithonial around the time he killed the dragon, when he returned to Ouromael to claim the reward. Lithonial and Leobardus have been on friendly terms ever since. However, there is a small amount of jealousy from Lithonial, as she will be the second most popular person in Ouromael, until his death.
 
