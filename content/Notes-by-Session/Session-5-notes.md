@@ -2,6 +2,9 @@
 title: Session 5
 ---
 
+> [!disclaimer]
+> Session "6" ended up being very short, and mostly inclueded touching up on loose ends from session 5. As such, I have lumped both sessions into this page
+
 # Wednesday
 
 ## Sarkus's return
@@ -50,10 +53,30 @@ Sarkas asks once again about the map, but we have found no clues on its existanc
 
 ---
 
-after a few hours, we gather once again at the manor. 
+**Shnarkle** searched around gnome-town inside **Ouromael**. He found a crazy gnome named Valver Fluketrick to find answers. He shares a crazy story about a small man who seems to be following him all the time, but no one will believe him. He shares that the little scurrying man had stolen **Leobardus**, which he of course learned in a dream. He then goes on to deeply explain that this little man is a shapeshifting dragonborn. **Shnarkle** continues to act as though he completely believes the strange man, going so far as to buy him several drinks, as well as leaving a note after **Valver**'s eventual drunken slumber. After leaving the tavern they were talking in, **Shnarkle** is startled to see a small shape that he believes for a split second to be the little scurrying man. He is slightly embarrassed to find that is simply a cat.
+
+---
+
+After a few hours, we gather once again at the manor. 
 
 I ask **Lilith** about **Lithonial** and their relationship with **Leobardus**. After **Leobardus** defeated the dragon, he returned to claim the reward, which is where Lithonial and he had first met. They are very polite to each other, and seem to respect each other. However, it seems that **Lithonial** is a little jealous, as she is generally considered the second most popular. 
 
 As we are discussing this, a guard walks in, and says he found news on **Leobardus**. Reportedly, someone has spotted him in peppercorn city, nearby where he fought xavenon.
+
+We agree to wait a day before leaving on our trip, to spend Friday preparing for our journey.
+
+# Friday
+## Preparing for our Journy
+Murbrek pops a button from his coat, then dedicates it to Talos, then proceeds to throw it into a pool.
+
+Rar Summerfang searches for a rope inside Liliths manner.
+
+Shnarkle searches for the crazy person he met the day before, but fails to find him.
+
+Lillith makes simple preparations for leaving.
+
+# Saturday
+
+Elmar, one of Leobardus's home guards, gifts us three horses. He presses that we are expected to return them. Shnarkle wants to find a goat, but finds that the Governor has banned them due to their relation to the devil and a great evil she defeated long ago.
 
 *End of Session*
