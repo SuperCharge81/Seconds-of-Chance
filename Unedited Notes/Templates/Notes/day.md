@@ -13,15 +13,13 @@ tags:
 session: <% session %>
 ---
 
-<% await tp.file.move("/" + session + "/Days/" + tp.file.title) 
+<% await tp.file.move("/" + session + "/Days/" + fileName ) 
 %>
 
->[!Day of the Week]
-> <% fileName %>
+Summary:
+<% await tp.system.prompt("Summary?", "", false, true) %>
 
->[!Summary]
-><% await tp.system.prompt("Summary?", "", false, true) %>
+Linked Events:
 
->[!Linked Events]
 
 

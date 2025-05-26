@@ -14,13 +14,10 @@ tags:
 session: <% session %>
 ---
 day: <% "[" + day + "](" + "Session%20" + SessionNum + "/Days/" + day + ")" %>
-<% await tp.file.move("/" + session + "/Events/" + tp.file.title) 
+<% await tp.file.move("/" + session + "/Events/" + day + "/" + fileName ) 
 %>
 
->[!Event Name]
-> <% fileName %>
+Event Name: <% fileName %>
 
 >[!Summary]
 ><% await tp.system.prompt("Summary?", "", false, true) %>
-
-
