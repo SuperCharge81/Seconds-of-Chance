@@ -21,4 +21,4 @@ type: "object"
 # Description
 <% Appearance %>
 
-<% await tp.file.move("/content/Objects/" + tp.file.title) %>
+<% await tp.file.move("/content/Objects/" + FileName) %>

@@ -11,7 +11,7 @@ tags:
   - "location"
   - <% FileName %>
 ---
-<% await tp.file.move("/content/Locations/" + tp.file.title) %>
+<% await tp.file.move("/content/Locations/" + FileName) %>
 >[!infobox]
 >**Appearances:** 
 >**Mentioned in**:

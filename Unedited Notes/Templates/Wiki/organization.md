@@ -36,4 +36,4 @@ appearances:
 ## Structures
 ###
 
-<% await tp.file.move("/content/Organizations/" + tp.file.title) %>
+<% await tp.file.move("/content/Organizations/" + FileName) %>

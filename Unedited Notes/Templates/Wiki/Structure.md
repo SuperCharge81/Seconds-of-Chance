@@ -12,9 +12,8 @@ tags:
   - "dnd"
   - "structure"
   - <% StructureType %>
-  - <% FileName %>
 ---
-<% await tp.file.move("/content/Structures/" + tp.file.title) %>
+<% await tp.file.move("/content/Structures/" + FileName) %>
 >[!infobox]
 >**Location**: <% Location %> <br>
 >**Appearances**:<br>
