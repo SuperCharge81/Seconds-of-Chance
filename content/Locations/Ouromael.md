@@ -29,5 +29,5 @@ It is in Ouromael that Sarkas traveled to during the events of session 3. Sarkas
 ### Lilith
 This is the town that lilith spent her later childhood, after being adopted by Leobardus.
 ## Structures
-### Glamorous Bell
+### [Glamorous Bell](Glamorous%20Bell.md)
 The Glamorous Bell is located inside Ouromael. It is a slightly reputable tavern.

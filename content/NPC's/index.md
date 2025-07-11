@@ -1,11 +1,27 @@
 ---
 title: NPCs
 ---
-# [Aldritch](Aldritch)
+# Major NPCs
+## [Aldritch](Aldritch)
 Aldritch is a sheep farmer who had his home attacked by Gnolls.
-# [Gardonin](Gardonin)
+
+## [Gardonin](Gardonin)
 Gardonin is a zombified necromancer Dragonborn who was behind the incident at Aldritch's farm. He was found inside the [Dead Forest](Dead-Forest).
-# [Lord Leobardus](Leobardus)
+
+## [Lord Leobardus](Leobardus)
 Leobardus is a local adventure who retired to [Ouromael](Ouromael.md). He later disappeared, reportedly on another adventure.
-# [Sarkas](NPC's/Sarkas.md)
+## [Sarkas](NPC's/Sarkas.md)
 Sarkas is an elf that gathered {party name} to investigate the incident at [Aldritch's farm](Aldritch's%20Farm.md) and defend [Dragonview](Locations/Dragonview). He was later met in Ouromael
+
+# Minor NPC's
+## [Elmar](Elmar.md)
+Elmar is the personal guard of Lord Leobardus.
+
+## [Groster Platehealm](Groster%20Platehealm.md)
+Platehealm is the captain of the Mountains Hall
+
+## [Lithonial Ararora](Lithonial%20Ararora.md)
+Ararora is the current mayor of Ouromael
+
+## [Valver Fluketrick](Valver%20Fluketrick.md)
+Fluketrick is a small gnome located in the Gnome-town of Ouromael
