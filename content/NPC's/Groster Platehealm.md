@@ -1,10 +1,9 @@
 ---
 title: Groster
-type: "npc"
+type: npc
 tags:
-  - "dnd"
-  - "npc"
-  - Groster Platehealm
+  - dnd
+  - npc
 ---
 
 >[!infobox]
@@ -15,7 +14,7 @@ tags:
 >**Gender**: Male<br>
 >**Race**: Dwarf
 # Summary
-Groster Platehealm is the captain of the [Mountains Hall](Mountains%20Hall.md) He was found in the Glamorous Bell tavern, where Murbrek had been asking about the disappearance of [Leobardus](NPC's/Leobardus). Despite not being there much longer than Murbrek, he was able to find out much more, and told Murbrek about
+Groster Platehealm is the captain of the [Mountains Hall](Mountains%20Hall.md) He was found in the [Glamorous Bell](Glamorous%20Bell.md) tavern, where Murbrek had been asking about the disappearance of [Leobardus](NPC's/Leobardus). Despite not being there much longer than Murbrek, he was able to find out much more, and told Murbrek about
 
 
 # Description

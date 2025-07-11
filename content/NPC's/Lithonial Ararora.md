@@ -1,10 +1,9 @@
 ---
 title: Lithonial Ararora
-type: "npc"
+type: npc
 tags:
-  - "dnd"
-  - "npc"
-  - Lithonial-Ararora
+  - dnd
+  - npc
 ---
 
 >[!infobox]

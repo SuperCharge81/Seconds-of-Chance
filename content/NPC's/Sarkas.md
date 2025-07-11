@@ -1,10 +1,9 @@
 ---
 title: Sarkas
-type: "npc"
+type: npc
 tags:
-  - "dnd"
-  - "npc"
-  - Sarkas
+  - dnd
+  - npc
 ---
 >[!infobox]
 >**Organization**: none<br>

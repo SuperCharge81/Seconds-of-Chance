@@ -1,10 +1,9 @@
 ---
 title: Lord Leobardus
-type: "npc"
+type: npc
 tags:
-  - "dnd"
-  - "npc"
-  - Leobardus
+  - dnd
+  - npc
 appearances:
 ---
 

@@ -14,7 +14,6 @@ type: "npc"
 tags:
   - "dnd"
   - "npc"
-  - <% FileName %>
 ---
 <% await tp.file.move("/content/NPC's/" + FileName) %>
 >[!infobox]

@@ -1,10 +1,9 @@
 ---
 title: Valver Fluketrick
-type: "npc"
+type: npc
 tags:
-  - "dnd"
-  - "npc"
-  - Valver Fluketrick
+  - dnd
+  - npc
 ---
 
 >[!infobox]

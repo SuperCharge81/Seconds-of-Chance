@@ -1,10 +1,9 @@
 ---
 title: Elmar
-type: "npc"
+type: npc
 tags:
-  - "dnd"
-  - "npc"
-  - Elmar
+  - dnd
+  - npc
 ---
 
 >[!infobox]

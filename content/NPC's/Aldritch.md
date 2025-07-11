@@ -1,10 +1,9 @@
 ---
 title: Aldritch
-type: "npc"
+type: npc
 tags:
-  - "dnd"
-  - "npc"
-  - Aldritch
+  - dnd
+  - npc
 ---
 >[!infobox]
 >**Location**: [Dragonview](Locations/Dragonview)  
