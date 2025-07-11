@@ -1,11 +1,11 @@
 ---
 title: Aldritch's Farm
-type: "Structure"
+type: Structure
 tags:
-  - "dnd"
-  - "structure"
+  - dnd
+  - structure
   - Farm
-  - Aldritchs-Farm
+  - Dragonview
 ---
 
 >[!infobox]

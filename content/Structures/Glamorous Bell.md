@@ -4,10 +4,11 @@ type: Structure
 tags:
   - dnd
   - structure
-  - Glamorous-Bell
   - tavern
+  - Ouromael
 ---
 >[!infobox]
+>Location: [Ouromael](Ouromael.md)
 >**Appearances**: [Session 5](Session-5-notes)<br>
 >**Structure type**: Tavern
 # Description

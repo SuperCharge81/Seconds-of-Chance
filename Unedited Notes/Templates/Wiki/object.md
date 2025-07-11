@@ -9,7 +9,6 @@ title: <% FileName %>
 tags:
   - "dnd"
   - object
-  - <% FileName %>
   - <% ObjectType %>
 type: "object"
 ---

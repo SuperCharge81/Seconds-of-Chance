@@ -1,11 +1,11 @@
 ---
 title: Gardonins-Layer
-type: "Structure"
+type: Structure
 tags:
-  - "dnd"
-  - "structure"
+  - dnd
+  - structure
   - Lair
-  - Gardonins-Layer
+  - Ruined-Village
 ---
 
 >[!infobox]

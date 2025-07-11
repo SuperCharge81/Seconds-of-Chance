@@ -1,11 +1,10 @@
 ---
 title: Mountains Hall
 tags:
-  - "dnd"
+  - dnd
   - object
-  - "Mountains-Hall"
   - Ship
-type: "object"
+type: object
 ---
 >[!infobox]
 >**Object Type**: Ship<br>
