@@ -41,3 +41,10 @@ Returning to [dragonview](Locations\Dragonview), we find that [Sarkas](NPC's\Sar
 
 Searching for answers behind [Lord Leobardus's](NPC's/Leobardus) disappearance, we discover Sarkas, who tells us that there are rumors that he has simply run away on another adventure, but it is a little odd that he brought his wife with him. He also shows interest in finding a map he believes Leobardus owns, and wants us to rummage through Leobardus's belongings. We decided to find more information, before giving anything to Sarkas. Upon further investigation, we find other supporting rumors, including people claiming to have seen him running away in the night. Finally, a guard shows up to report that Leobardas has been spotted near Peppercorn city, and we agree to make our way there.
 </details>
+
+
+# [Session 6 notes](Session-6-notes)
+<details><summary style="font-size: 20px; font-weight: bold">Summary</summary>
+
+We travel to Peppercorn city to investigate claims of Lord Leobardus's apperance. Apon ariving, Lilith recives two letters. One is an invitation to the Marshals ball, and the other is to the ball of Lord Farmer, both at the same time. Shnarkle has a disagrement with the bartender and is kicked out, while Lilith and Rar decide to get ready for the Farmer ball.
+</details>
