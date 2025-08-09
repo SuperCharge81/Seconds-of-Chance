@@ -25,7 +25,7 @@ The second letter contains a similar invitation to Lord Farmer's ball, at the sa
 
 Shnarkel attempts to bully the bartender into getting him some juice. However the bartender has gotten annoyed to the point of getting one of his jumpers to kick Shnarkel out. Upon seeing this, Murbrek tries to stop the jumper by standing in front and intimidating. However, both get stopped by Lilith, who hears the curses of Shnarkel, and comes downstairs. She apologizes to the barkeep, before she arranges that he will go somewhere else to find juice and bed. Sharkel promptly wanders off and falls asleep on the side of the road.
 
-Lilith continues a conversation with the barkeep, asking about the political climate of the city. He talks about how Lord and Lady Leobardus had just passed through, and left a few days ago. He mentions that Lord Farmer is likely to know Leobardus's intended destination, but is notorious for being difficult to talk to. The Barkeep mentioned that Lord Archer spent a lot of time with her father, so she might have the best luck talking to him.
+Lilith continues a conversation with the barkeep, asking about the political climate of the city. He talks about how Lord and Lady Leobardus had just passed through, and left a few days ago. He mentions that Lord Farmer is likely to know Leobardus's intended destination, but is notorious for being difficult to talk to. The Barkeep mentioned that Lord Stone spent a lot of time with her father, so she might have the best luck talking to him.
 
 Lilith, Rar, and Mubrek discuss what to do next. It is decided that Mubrek will find Shnarkel and babysit, while Lilith and Rar gather clothes for Lord Farmer's Ball.
 
