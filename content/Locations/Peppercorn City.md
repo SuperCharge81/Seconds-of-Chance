@@ -8,7 +8,7 @@ tags:
 ---
 
 >[!infobox]
->**Appearances:** [Session 6](Session-6-notes.md)
+>**Appearances:** [Session 6](Session-6-notes.md), [Session 7](Session-7-notes.md)
 >**Mentioned in**:[Session 5](Session-5-notes.md)
 # Description
 It has a circular wall around it, with several tiers. The lower class has been built around the outside ring, along the edge of the wall. The middle class gathers around the central ring and the upper class lives in the upper ring.

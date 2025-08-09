@@ -4,7 +4,7 @@ type: Structure
 tags:
   - dnd
   - structure
-  - Farm
+  - farm
   - Dragonview
 ---
 

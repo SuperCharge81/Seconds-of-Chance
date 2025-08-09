@@ -48,3 +48,14 @@ Searching for answers behind [Lord Leobardus's](NPC's/Leobardus) disappearance, 
 
 We travel to Peppercorn city to investigate claims of Lord Leobardus's apperance. Apon ariving, Lilith recives two letters. One is an invitation to the Marshals ball, and the other is to the ball of Lord Farmer, both at the same time. Shnarkle has a disagrement with the bartender and is kicked out, while Lilith and Rar decide to get ready for the Farmer ball.
 </details>
+
+# [Session 7 notes](Session-7-notes)
+
+<details><summary style="font-size: 20px; font-weight: bold">Summary</summary>
+
+#### Shnarkle and Murbrek
+Shnarkle and Murbrek search for clues around where Shnarkle was beat up. They discover it was a group known as the Red Rock Gang. They find a place to listen into the gangs meeting, finding the group displaying Shnarkle's belongings. The leader of the group leaves with guards + Shnarkle's stuff. Upon following them to one of their houses, we defeat the guards, get Shnarkle's stuff, then escape.
+
+#### Lilith and Rar
+Based several hours later, Lilith and Rar hear news about the news of their companions starting a riot in their attempt to escape. They also find that Lord Stone, their intended target of conversation will be late for the ball. Rar also meets Lady Farmer, the daughter of the host, to be fascinating and starts dancing with her.
+</details>

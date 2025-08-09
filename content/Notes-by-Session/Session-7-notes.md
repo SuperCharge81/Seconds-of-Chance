@@ -4,10 +4,11 @@ title: Session 7
 
 # Monday
 
----
-After waking, **Lilith** and **Rar** get a pedicure, in preparation for their Ball Monday night. Lilith **feels** that the prices are suspiciously low, likely due to her fathers standing. 
 
-**Murbrek** and **Shnarkle** end up making their way towards **Shnarkle** was discovered after he was beat up. Upon looking for any sort of clues, **Shnarkle** finds a deep red rock, which he promptly names **Joe**. **Murbrek** recognizes this as a sign of organized crime in **Peppercorn City**, but being from the other side of the continent, knows very little about any details.
+After waking, **Lilith** and **Rar** get a pedicure, in preparation for their Ball Monday night. **Lilith** feels that the prices are suspiciously low, likely due to her fathers standing. 
+
+---
+**Murbrek** and **Shnarkle** end up making their way towards where **Shnarkle** was discovered after he was beat up. Upon looking for any sort of clues, **Shnarkle** finds a deep red rock, which he promptly names **Joe**. **Murbrek** recognizes this as a sign of organized crime in **Peppercorn City**, but being from the other side of the continent, knows very little about any details.
 
 They make their way over to a nearby tavern named the **Drunk Skunk**, to find out more. There are about five people including the barkeep, and **Shnarkle** tries talking to the barkeep. He starts telling a story about **Shnarkle** starting to antagonizing several guests, including members of the **Red Rock Gang**. The barkeep tells **Shnarkle** that the Gang meets at the ruby fountain quite often
 

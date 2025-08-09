@@ -25,8 +25,8 @@ Ouromael is a great elvish city, with a large Elvish population. It is where Leo
 <br>
 
 ## Medium Cities
-### Khazum
-Khazum is a desert Port City located in the North West of Paleros, just below the Mountains of the North.
+### [Khazum](Khazum.md)
+Khazum is a desert Port City located in the North West of Paleros, just below the Mountains of the North. It is the hometown of Rar.
 ### Akkurai
 a smaller city located along the Western Ocean, Akkurai does not appear to have a port. It stands between Icewind and Shady Meadow.
 ### Shady Meadow

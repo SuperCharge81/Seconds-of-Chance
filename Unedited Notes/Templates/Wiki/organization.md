@@ -9,7 +9,6 @@ title: <% FileName %>
 tags:
   - "dnd"
   - organization
-  - <% FileName %>
 type: "organization"
 appearances:
 ---
